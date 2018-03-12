@@ -1,5 +1,5 @@
 INSERT INTO cats (id, name, age, gender, color, temperament, alive) VALUES (1, 'Mr. Chocolate', 3,'M', 'Brown', 'friendly', 'alive');
-
+INSERT INTO cats (id, name, age, gender, color, temperament, alive) VALUES (1, 'Mr. Chocolate', 3,'M', 'Brown', 'friendly', 'alive');
 
 Mr. Chocolate
 Rowdy
